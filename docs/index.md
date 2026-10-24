@@ -17,6 +17,7 @@ models.md
 metrics.md
 examples.md
 talks.md
+guides/single_gpu_dev.md
 contributing.md
 code-of-conduct.md
 gallery.rst
